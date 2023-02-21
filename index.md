@@ -7,3 +7,9 @@ $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
 here you can see an example of code
+
+A task list:
+- [x] This is done
+- [x] That's done
+- [x] And that's done too
+- [ ] But this is not done
